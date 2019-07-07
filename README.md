@@ -4,7 +4,10 @@
  ## Used
  |   OpenTK     |          NAudio          | QuickFont |
 |:------:|:-----------------------:|:----------------|
-| [**3.0.1**](https://www.nuget.org/packages/OpenTK/) |   [**1.9.0**](https://www.nuget.org/packages/NAudio/)    | [**3.0.2**](https://www.nuget.org/packages/QuickFont/) |
+| [**3.0.1**](https://www.nuget.org/packages/OpenTK/) |   [**1.9.0**](https://www.nuget.org/packages/NAudio/) | [**3.0.2**](https://www.nuget.org/packages/QuickFont/) |
+
+
+![IMAGE](https://i.imgur.com/poJ0SWQ.png)
 
  #### TODO
  * Reduce Garbage Collection.
