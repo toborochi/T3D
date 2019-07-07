@@ -6,8 +6,9 @@
 |:------:|:-----------------------:|:----------------|
 | [**3.0.1**](https://www.nuget.org/packages/OpenTK/) |   [**1.9.0**](https://www.nuget.org/packages/NAudio/) | [**3.0.2**](https://www.nuget.org/packages/QuickFont/) |
 
-
-![IMAGE](https://i.imgur.com/poJ0SWQ.png)
+<p align="center">
+<img src="https://i.imgur.com/poJ0SWQ.png" alt="alt text" width="400" height="whatever">
+</p>
 
  #### TODO
  * Reduce Garbage Collection.
